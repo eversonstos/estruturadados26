@@ -1,0 +1,15 @@
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\bin\Debug\net10.0\'PALAVRAS.exe
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\bin\Debug\net10.0\'PALAVRAS.deps.json
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\bin\Debug\net10.0\'PALAVRAS.runtimeconfig.json
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\bin\Debug\net10.0\'PALAVRAS.dll
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\bin\Debug\net10.0\'PALAVRAS.pdb
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.AssemblyInfoInputs.cache
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.AssemblyInfo.cs
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.csproj.CoreCompileInputs.cache
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.sourcelink.json
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.dll
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\refint\'PALAVRAS.dll
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.pdb
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\'PALAVRAS.genruntimeconfig.cache
+C:\Users\467504\Documents\estrutura de dados\2026\ATIVIDADES\PALAVRAS\obj\Debug\net10.0\ref\'PALAVRAS.dll
