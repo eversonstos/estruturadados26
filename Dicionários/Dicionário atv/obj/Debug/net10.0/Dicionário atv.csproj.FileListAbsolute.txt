@@ -1,0 +1,15 @@
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\bin\Debug\net10.0\Dicionário atv.exe
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\bin\Debug\net10.0\Dicionário atv.deps.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\bin\Debug\net10.0\Dicionário atv.runtimeconfig.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\bin\Debug\net10.0\Dicionário atv.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\bin\Debug\net10.0\Dicionário atv.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.AssemblyInfoInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.AssemblyInfo.cs
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.csproj.CoreCompileInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.sourcelink.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\refint\Dicionário atv.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\Dicionário atv.genruntimeconfig.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionário atv\obj\Debug\net10.0\ref\Dicionário atv.dll

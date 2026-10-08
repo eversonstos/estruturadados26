@@ -1,0 +1,15 @@
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\bin\Debug\net10.0\Dicionários.exe
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\bin\Debug\net10.0\Dicionários.deps.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\bin\Debug\net10.0\Dicionários.runtimeconfig.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\bin\Debug\net10.0\Dicionários.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\bin\Debug\net10.0\Dicionários.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.AssemblyInfoInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.AssemblyInfo.cs
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.csproj.CoreCompileInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.sourcelink.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\refint\Dicionários.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\Dicionários.genruntimeconfig.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\Dicionários\obj\Debug\net10.0\ref\Dicionários.dll
