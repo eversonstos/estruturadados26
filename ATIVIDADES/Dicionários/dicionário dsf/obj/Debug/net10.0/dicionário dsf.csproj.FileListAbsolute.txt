@@ -1,0 +1,15 @@
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\bin\Debug\net10.0\dicionário dsf.exe
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\bin\Debug\net10.0\dicionário dsf.deps.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\bin\Debug\net10.0\dicionário dsf.runtimeconfig.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\bin\Debug\net10.0\dicionário dsf.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\bin\Debug\net10.0\dicionário dsf.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.AssemblyInfoInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.AssemblyInfo.cs
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.csproj.CoreCompileInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.sourcelink.json
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\refint\dicionário dsf.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\dicionário dsf.genruntimeconfig.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\atividades\Dicionários\dicionário dsf\obj\Debug\net10.0\ref\dicionário dsf.dll
