@@ -1,0 +1,14 @@
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.AssemblyInfoInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.AssemblyInfo.cs
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.csproj.CoreCompileInputs.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\bin\Debug\net10.0\InserctionSort.exe
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\bin\Debug\net10.0\InserctionSort.deps.json
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\bin\Debug\net10.0\InserctionSort.runtimeconfig.json
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\bin\Debug\net10.0\InserctionSort.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\bin\Debug\net10.0\InserctionSort.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\refint\InserctionSort.dll
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.pdb
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\InserctionSort.genruntimeconfig.cache
+C:\Users\467504\Documents\Estrutura de dados\2026\ATIVIDADES\ordenação\InserctionSort\obj\Debug\net10.0\ref\InserctionSort.dll
